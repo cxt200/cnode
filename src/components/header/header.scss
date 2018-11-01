@@ -1,0 +1,41 @@
+.header{
+    background:#444;
+    height: 50px;
+    line-height: 50px;
+}
+
+.header-con{
+    width: 1400px;
+    margin:0 auto;
+}
+
+.brand{
+    float: left;
+    width: 120px;
+    margin-top: 8px;
+    height: 34px;
+    line-height: 34px;
+    color: #ccc;
+    font-weight: 700;
+    img{
+        width: 120px;
+        height: 34px;
+    }
+}
+
+.search-box{
+    float:left;
+    margin-left: 30px;
+}
+
+.nav{
+    margin-top: 10px;
+    float:right;
+    li{
+        float:left;
+        height:30px;
+        line-height:30px;
+        color:#eee;
+        margin: 0 10px;
+    }
+}
